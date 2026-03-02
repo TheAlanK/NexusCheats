@@ -1,0 +1,14 @@
+{
+  "id": "nexus_cheats",
+  "name": "NexusCheats",
+  "author": "NexusDev",
+  "version": "0.9.0-beta",
+  "description": "Cheat panel built on NexusUI framework. Add credits, resources, weapons, ships, XP, and story points via a convenient in-game overlay.",
+  "gameVersion": "0.98a-RC7",
+  "modPlugin": "com.nexuscheats.CheatsModPlugin",
+  "jars": ["jars/NexusCheats.jar"],
+  "dependencies": [
+    {"id": "lw_lazylib", "name": "LazyLib"},
+    {"id": "nexus_ui", "name": "NexusUI"}
+  ]
+}
